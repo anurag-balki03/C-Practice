@@ -1,0 +1,14 @@
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.AssemblyInfoInputs.cache
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.AssemblyInfo.cs
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\PracticeQuestions2\bin\Debug\net8.0\PracticeQuestions2.exe
+C:\Users\Anurag\source\repos\PracticeQuestions2\bin\Debug\net8.0\PracticeQuestions2.deps.json
+C:\Users\Anurag\source\repos\PracticeQuestions2\bin\Debug\net8.0\PracticeQuestions2.runtimeconfig.json
+C:\Users\Anurag\source\repos\PracticeQuestions2\bin\Debug\net8.0\PracticeQuestions2.dll
+C:\Users\Anurag\source\repos\PracticeQuestions2\bin\Debug\net8.0\PracticeQuestions2.pdb
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.dll
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\refint\PracticeQuestions2.dll
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.pdb
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\PracticeQuestions2.genruntimeconfig.cache
+C:\Users\Anurag\source\repos\PracticeQuestions2\obj\Debug\net8.0\ref\PracticeQuestions2.dll
