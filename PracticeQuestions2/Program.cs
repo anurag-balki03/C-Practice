@@ -28,14 +28,22 @@ namespace PracticeQuestions2
 
             //Robot robot = new Robot();                               //5.Robot
 
-            SavingsAccount savings = new SavingsAccount();
-            //1.SimpleInterest 2.CoumpoundInterest
-            savings.CalculateInterest(1);
-            savings.CalculateInterest(2);
+            //SavingsAccount savings = new SavingsAccount();
+            ////1.SimpleInterest 2.CoumpoundInterest
+            //savings.CalculateInterest(1);
+            //savings.CalculateInterest(2);                           //6.CALCULATE INTEREST
+
 
             //Duck duck = new Duck();                                   //7.Duck
 
 
+            Student student = new Student("Alice", 20, 101);
+
+            Person person = student;
+            person.Display();
+
+            Student downcastedStudent = (Student)person;
+            downcastedStudent.Display();                            //8.UpCastDownCast
 
             //ElectronicProduct electric = new ElectronicProduct();
             //ClothingProduct Cloth = new ClothingProduct();           //9.ProductAndDiscount
